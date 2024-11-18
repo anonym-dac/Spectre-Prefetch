@@ -1,0 +1,78 @@
+Pin at Core 49.
+Reading msr_value 0x7.
+Miss = 750	Hit = 300
+Using a cache hit threshold of 525.
+Running at Intel(R) Xeon(R) Gold 6248R CPU.
+The secret is '*secREt~'
+Infering '*'
+91
+90
+486
+91
+454
+90
+454
+128
+Infering 's'
+64
+417
+417
+454
+64
+63
+423
+416
+Infering 'e'
+45
+410
+430
+46
+45
+457
+45
+463
+Infering 'c'
+38
+429
+402
+40
+142
+108
+389
+390
+Infering 'R'
+66
+386
+31
+390
+31
+136
+492
+32
+Infering 'E'
+29
+387
+64
+63
+64
+452
+64
+384
+Infering 't'
+29
+457
+456
+480
+30
+377
+29
+30
+Infering '~'
+29
+382
+401
+606
+382
+391
+379
+29
